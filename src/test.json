@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
+            "correct_answer": "Dixon",
+            "incorrect_answers": [
+                "Grimes",
+                "Dickinson",
+                "Dicketson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+            "correct_answer": "Walter White",
+            "incorrect_answers": [
+                "William Wolf",
+                "Willy Wonka",
+                "Wally Walrus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+            "correct_answer": "Pie-O-My",
+            "incorrect_answers": [
+                "Man o&#039; war",
+                "Bada Bing",
+                "Honest Earnings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "&quot;The A Team&quot; first aired in the USA and in the UK in what year?",
+            "correct_answer": "1983",
+            "incorrect_answers": [
+                "1981",
+                "1985",
+                "1987"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the episode of SpongeBob SquarePants, &quot;Survival of the Idiots&quot;, Spongebob called Patrick which nickname?",
+            "correct_answer": "Pinhead",
+            "incorrect_answers": [
+                "Starfish",
+                "Larry",
+                "Dirty Dan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+            "correct_answer": "Frankie Laine",
+            "incorrect_answers": [
+                "Guy Mitchell",
+                " Tennessee Ernie Ford",
+                "Slim Whitman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?",
+            "correct_answer": "David Tennant",
+            "incorrect_answers": [
+                "William Hartnell",
+                "Peter Capaldi",
+                "Peter Davison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which character does voice actress Tara Strong NOT voice?",
+            "correct_answer": "Bubbles (2016)",
+            "incorrect_answers": [
+                "Twilight Sparkle",
+                "Timmy Turner",
+                "Harley Quinn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What does Bart sell his soul for in The Simpsons episode &#039;Bart Sells His Soul&#039;?",
+            "correct_answer": "$5",
+            "incorrect_answers": [
+                "A Copy of Bonestorm 2",
+                "$100",
+                "A Giant Gobstopper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
+            "correct_answer": "Pawnee, Indiana",
+            "incorrect_answers": [
+                "Eagleton, Indiana",
+                "Pasadena, California",
+                "London, England"
+            ]
+        }
+    ]
+}
